@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QlOQVYQo+3mMugzlfZYph4YFULhQhdDkBNetabkNownMEKrTCaKgN5XX3D/vUR5HsSazp4cq1hBI3RyQOhFHjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmzns\\Desktop\\20191132015-RS-HesapMakinesi\\RS-HesapMakinesi\\RS-HesapMakinesi.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmzns\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rmzns\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rmzns\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
